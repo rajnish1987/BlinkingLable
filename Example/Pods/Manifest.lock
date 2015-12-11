@@ -1,0 +1,14 @@
+PODS:
+  - BlinkingLable (0.1.0)
+
+DEPENDENCIES:
+  - BlinkingLable (from `../`)
+
+EXTERNAL SOURCES:
+  BlinkingLable:
+    :path: ../
+
+SPEC CHECKSUMS:
+  BlinkingLable: eb31e2fa1d781311a4007e629ceb2c00fe14351d
+
+COCOAPODS: 0.38.2

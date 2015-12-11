@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>BlinkingLable-BlinkingLable.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>BlinkingLable.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-BlinkingLable_Example.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-BlinkingLable_Tests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>29036AA0BAC01D31DA34172116EBCCA9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4EC23451D5C5E4BDFD9E59854190C26F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BFA03F3A4B7B694ECC22AEAB2F7F60AA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D94982D5F79D283AD5CAA8EAE1733A83</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
